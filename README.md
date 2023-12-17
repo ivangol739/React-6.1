@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n2ldd9tud3jo340h?svg=true)](https://ci.appveyor.com/project/ivangol739/react-6-1)
+
 Мировые часы
 ===
 
